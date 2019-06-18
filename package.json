@@ -1,5 +1,5 @@
 {
-  "name": "react-chain",
+  "name": "react-use-locked-state",
   "version": "1.0.0",
   "description": "react-chain React component",
   "main": "lib/index.js",
@@ -24,9 +24,12 @@
     "react": "16.x"
   },
   "devDependencies": {
+    "bootstrap": "^4.3.1",
     "nwb": "0.23.x",
     "react": "^16.8.6",
-    "react-dom": "^16.8.6"
+    "react-async-hook": "^3.1.0",
+    "react-dom": "^16.8.6",
+    "react-portal": "^4.2.0"
   },
   "author": "",
   "homepage": "",
