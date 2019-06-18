@@ -1,6 +1,6 @@
 {
   "name": "react-use-locked-state",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "react-chain React component",
   "main": "lib/index.js",
   "module": "es/index.js",
